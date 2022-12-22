@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BensonNgu
 - 👀 I’m interested in <em>Web programming</em> and <em>software deveplopment</em>
-- 🌱 I’m currently learning <em>Database Management & Security</em>
+- 🌱 I’m currently learning <em>Diploma in <a href="https://www.sim.edu.sg/">Singapore Institute of Management</a></em>
 
 ## Language learnt:
 - Python
