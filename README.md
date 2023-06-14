@@ -3,7 +3,7 @@
 - 🌱 I’m currently having my <em>Degree in <a href="https://www.sim.edu.sg/">Singapore Institute of Management</a></em>
 
 ## Language learnt:
-- Python(https://github.com/BensonNgu/Python)
+- [Python](https://github.com/BensonNgu/Python)
 - [Java](https://github.com/BensonNgu/java)
 - Mysql
 - [html](https://github.com/BensonNgu/HTML-notes)
