@@ -4,7 +4,7 @@
 
 ## Language learnt:
 - [<kbd>Python</kbd>](https://github.com/BensonNgu/Python)
-- [</kbd>Java</kbd>](https://github.com/BensonNgu/java)
+- [<kbd>Java</kbd>](https://github.com/BensonNgu/java)
 - <kbd>Mysql</kbd>
 - [<kbd>html</kbd>](https://github.com/BensonNgu/HTML-notes)
 <div>
