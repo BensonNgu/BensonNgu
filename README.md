@@ -3,10 +3,10 @@
 - 🌱 I’m currently having my <em>Degree in <a href="https://www.sim.edu.sg/">Singapore Institute of Management</a></em>
 
 ## Language learnt:
-- [Python](https://github.com/BensonNgu/Python)
-- [Java](https://github.com/BensonNgu/java)
-- Mysql
-- [html](https://github.com/BensonNgu/HTML-notes)
+- [<kbd>Python</kbd>](https://github.com/BensonNgu/Python)
+- [</kbd>Java</kbd>](https://github.com/BensonNgu/java)
+- <kbd>Mysql</kbd>
+- [<kbd>html</kbd>](https://github.com/BensonNgu/HTML-notes)
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonngu&layout=compact&langs_count=8&theme=dracula"/>
 </div>
