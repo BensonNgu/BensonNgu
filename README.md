@@ -5,8 +5,9 @@
 ## Language learnt:
 - [<kbd>Python</kbd>](https://github.com/BensonNgu/Python)
 - [<kbd>Java</kbd>](https://github.com/BensonNgu/java)
-- <kbd>Mysql</kbd>
-- [<kbd>html</kbd>](https://github.com/BensonNgu/HTML-notes)
+- <kbd>SQL</kbd>
+- [<kbd>HTML</kbd>](https://github.com/BensonNgu/HTML-notes)
+- [<kbd>C++</kbd>]()
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonngu&layout=compact&langs_count=8&theme=dracula"/>
 </div>
