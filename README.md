@@ -7,7 +7,7 @@
 - [<kbd>Java</kbd>](https://github.com/BensonNgu/java)
 - <kbd>SQL</kbd>
 - [<kbd>HTML</kbd>](https://github.com/BensonNgu/HTML-notes)
-- [<kbd>C++</kbd>]()
+- [<kbd>C++</kbd>](https://github.com/BensonNgu/CPP)
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonngu&layout=compact&langs_count=8&theme=dracula"/>
 </div>
