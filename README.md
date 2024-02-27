@@ -15,6 +15,6 @@
 ---
 
 ## 📫 How to reach me :
-[![](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/benson-ngu-aa070a1aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bl8X0AnWQQ56Lk5EIJVc0mA%3D%3D)
+[![](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/bensonnguchengjie)
 
 
