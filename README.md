@@ -12,6 +12,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonngu&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
+https://pixel-profile.vercel.app/api/github-stats?username=LuciNyan&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)
+
 ---
 
 ## 📫 How to reach me :
