@@ -3,7 +3,7 @@
 - 🌱 I’m currently having my <em>Degree in <a href="https://www.sim.edu.sg/">Singapore Institute of Management</a></em>
 
 ## Language learnt:
-- [<kbd>Python</kbd>](https://github.com/BensonNgu/Python)
+- [<kbd>Python</kbd>](https://github.com/BensonNgu/P
 - [<kbd>Java</kbd>](https://github.com/BensonNgu/java)
 - <kbd>SQL</kbd>
 - [<kbd>HTML</kbd>](https://github.com/BensonNgu/HTML-notes)
@@ -14,7 +14,7 @@
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=bensonngu&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=bensonngu&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=bensonngu&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%161b22)">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=bensonngu&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
 </picture>
 
