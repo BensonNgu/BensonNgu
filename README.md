@@ -8,9 +8,11 @@
 - <kbd>SQL</kbd>
 - [<kbd>HTML</kbd>](https://github.com/BensonNgu/HTML-notes)
 - [<kbd>C++</kbd>](https://github.com/BensonNgu/CPP)
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonngu&layout=compact&langs_count=8&theme=dracula"/>
-</div>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonngu&layout=compact&langs_count=8&theme=default")>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonngu&layout=compact&langs_count=8&theme=dracula")>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonngu&layout=compact&langs_count=8&theme=dracula">
+</picture>
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=bensonngu&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%23ffffff%2C%20%23e8ebef)&color=black">
