@@ -9,9 +9,11 @@
 - [<kbd>HTML</kbd>](https://github.com/BensonNgu/HTML-notes)
 - [<kbd>C++</kbd>](https://github.com/BensonNgu/CPP)
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonngu&layout=compact&langs_count=8&theme=default")>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonngu&layout=compact&langs_count=8&theme=dracula")>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonngu&layout=compact&langs_count=8&theme=dracula">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonngu&layout=compact&langs_count=8&bg_color=45,384963,0d1117&text_color=ffffff&title_color=33ccff">
+  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonngu&layout=compact&langs_count=8&bg_color=45,384963,0d1117&text_color=ffffff&title_color=33ccff">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensonngu&layout=compact&langs_count=8&bg_color=45,384963,0d1117&text_color=ffffff&title_color=33ccff">
 </picture>
 
 <picture decoding="async" loading="lazy">
