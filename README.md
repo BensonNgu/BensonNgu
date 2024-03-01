@@ -13,9 +13,11 @@
 </div>
 
 <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=bensonngu&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=bensonngu&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%#5e7594%2C%20%#161b22)">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=bensonngu&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%#5e7594%2C%20%#161b22)">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=bensonngu&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%23ffffff%2C%20%23e8ebef)">
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=bensonngu&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%23384963%2C%20%230d1117)">
+  
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=bensonngu&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%23384963%2C%20%230d1117)">
 </picture>
 
 ---
