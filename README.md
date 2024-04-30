@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BensonNgu
 - 👀 I’m interested in <em>Web programming</em> and <em>software deveplopment</em>
-- 🌱 I’m currently having my <em>Degree in <a href="https://www.sim.edu.sg/">Singapore Institute of Management</a></em>
+- 🌱 I’m currently having my <em>Degree in <a href="https://www.uow.edu.au/">University of Wollongong</a></em>
 
 ## Language learnt:
 - [<kbd>Python</kbd>](https://github.com/BensonNgu/Python)
